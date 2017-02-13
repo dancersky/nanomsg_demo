@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/shareubuntu/nanomsg_demo/./nanomsg/bus.h
+
+/mnt/hgfs/shareubuntu/nanomsg_demo/./nanomsg/nn.h
+errno.h
+-
+stddef.h
+-
+
+/mnt/hgfs/shareubuntu/nanomsg_demo/./nanomsg/pair.h
+
+/mnt/hgfs/shareubuntu/nanomsg_demo/main.c
+stdio.h
+-
+assert.h
+-
+pthread.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+./nanomsg/nn.h
+/mnt/hgfs/shareubuntu/nanomsg_demo/./nanomsg/nn.h
+./nanomsg/pair.h
+/mnt/hgfs/shareubuntu/nanomsg_demo/./nanomsg/pair.h
+./nanomsg/bus.h
+/mnt/hgfs/shareubuntu/nanomsg_demo/./nanomsg/bus.h
+sys/time.h
+-
+time.h
+-
+

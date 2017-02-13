@@ -1,0 +1,2 @@
+/mnt/hgfs/shareubuntu/nanomsg_demo/build/CMakeFiles/DoorSys.dir
+/mnt/hgfs/shareubuntu/nanomsg_demo/build/nanomsg/CMakeFiles/nanomsg.dir
